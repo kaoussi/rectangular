@@ -1,5 +1,5 @@
 describe("Hello", function(){
-  it("says hello", function(){
-    expect(sayHello()).toBe("Hello, world!");
+  it("Says Hello To Receiver", function(){
+    expect(sayHello('Souhail')).toBe("Hello, Souhail!");
   });
 });
