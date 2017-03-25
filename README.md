@@ -1,0 +1,2 @@
+# rectangular
+A Javascript Framework.
